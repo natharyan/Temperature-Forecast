@@ -2,7 +2,7 @@
 
 ## Overview
 
-Temp-Forecast is a machine learning project dedicated to predicting the next day's temperature based on historical weather patterns.
+Temp-Forecast is a machine learning project for predicting temperature based on historical weather patterns.
 
 ## Key Features
 
